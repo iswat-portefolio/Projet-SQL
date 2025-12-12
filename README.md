@@ -9,4 +9,4 @@ Etablisssemnet de lien entre gérants, constructeurs, fournisseurs
 
 ## Auteurs
 - Iswat TAIROU (code + rédaction)
-- Loubna RAFIQ (édaction)
+- Loubna RAFIQ (rédaction)
